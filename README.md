@@ -2,6 +2,8 @@
 
 A new Flutter application.
 
+Based code link: https://medium.com/flutterpub/blend-it-like-anything-3fe67148f3f4
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
